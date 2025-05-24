@@ -59,7 +59,6 @@ Follow these steps to get the project up and running on your local machine:
 
 ## 🌐 API Endpoints
 
-(Optional: Include a table or list of key API endpoints if you wish)
 
 | Method | Endpoint                      | Description                        |
 | :----- | :---------------------------- | :--------------------------------- |
