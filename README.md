@@ -9,6 +9,7 @@ A comprehensive web-based system for managing employee payroll, attendance, and 
 📈 Reporting: Generate detailed reports for Attendance, Leave, Department-wise Salary, and Bonus/Deduction.
 📊 Dashboard: Visualize key metrics like Department Distribution and Payroll Trends.
 🔍 Analytics: Explore detailed trends for Payroll and Attendance.
+
 🛠️ Technologies Used
 Frontend: React, Material UI (MUI), Axios
 Backend: Node.js, Express.js
