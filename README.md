@@ -90,7 +90,6 @@ Follow these steps to get the project up and running on your local machine:
 | `GET`  | `/api/leave-report`           | Get leave report data              |
 | `POST` | `/api/bonus`                  | Add a bonus entry                  |
 | `DELETE`| `/api/deductions/:id`         | Delete a deduction entry           |
-| ...    | ...                           | ...                                |
 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
