@@ -31,6 +31,24 @@ The project is organized into logical directories:
 
 ![image](https://github.com/user-attachments/assets/f1b3b5e3-8276-4d07-8b83-3fa35a3b5d9b)
 
+
+![image](https://github.com/user-attachments/assets/f226f3ba-41db-444b-814a-8041042d5752)
+
+
+![image](https://github.com/user-attachments/assets/86732bf9-3336-4210-834c-f78bb072bcee)
+
+
+![image](https://github.com/user-attachments/assets/a1e707d0-59f2-467c-b0cd-2bbeaa39a663)
+
+
+![image](https://github.com/user-attachments/assets/2341e466-d0c7-44dd-ac36-b0db8707098a)
+
+
+![image](https://github.com/user-attachments/assets/173aa360-a45a-4f2c-a61b-0a332eaddb0e)
+
+
+![image](https://github.com/user-attachments/assets/e8c1397b-87e0-433d-9320-ef8b5ef293e7)
+
 ## 🚀 Setup & Installation
 
 Follow these steps to get the project up and running on your local machine:
