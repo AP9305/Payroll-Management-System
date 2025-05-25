@@ -1,6 +1,6 @@
 # 📊 Payroll Management System Using React and MySQL
 
-A comprehensive web-based system for managing employee payroll, attendance, and leaves, developed as a Database Management System (DBMS) course project.
+A comprehensive web-based system for managing employee payroll, attendance, and leaves, developed as a Database Management System project.
 
 ## ✨ Features
 
