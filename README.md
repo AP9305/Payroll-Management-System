@@ -27,6 +27,10 @@ The project is organized into logical directories:
 *   `frontend/`: (Possibly a simple or older frontend - note if applicable)
 *   `routes/`: (Contains basic API routes - note if applicable)
 
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/f1b3b5e3-8276-4d07-8b83-3fa35a3b5d9b)
+
 ## 🚀 Setup & Installation
 
 Follow these steps to get the project up and running on your local machine:
