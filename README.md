@@ -1,5 +1,4 @@
 # 📊 Payroll Management System Using React and MySQL
-# Login Credentials- INSERT INTO `users` VALUES (1,'Admin','admin@example.com','1234567890','Administrator','1234');
 
 A comprehensive web-based system for managing employee payroll, attendance, and leaves, developed as a Database Management System project.
 
